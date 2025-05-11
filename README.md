@@ -1,10 +1,12 @@
 🌧️ Rain Tomorrow Prediction - Australia
+
 📌 Project Overview
 This project aims to predict whether it will rain tomorrow in locations across Australia, based on 10 years of historical weather data. Using classification models, we aim to answer the question: "Should you carry an umbrella tomorrow?"
 
 The target variable is RainTomorrow, a binary column indicating whether there was 1mm or more rain the next day.
 
 📁 Dataset
+
 Sourced from Australian Bureau of Meteorology
 
 ~10 years of daily weather observations from various Australian cities
@@ -27,6 +29,7 @@ Humidity, Pressure, Temperature at 9am and 3pm
 RainToday / RainTomorrow: Whether it rained that day/tomorrow (Yes/No)
 
 🔍 Workflow
+
 1. 🧠 Data Understanding
 Data types and structure
 
